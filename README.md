@@ -1,2 +1,3 @@
 # SIMPLE_CALCULATOR
 Add, subtract , multiply , divide
+YOU CAN USE IT FOR SCHOOL PROJECTS TOO
